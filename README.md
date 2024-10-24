@@ -7,8 +7,8 @@ Hi there, I am Anh studying IT at UET - VNU. Welcome to my GitHub!
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, C#, etc.
-- 🚀 &nbsp; I’m currently exploring AWS, K8s, etc.
+- 🛠 &nbsp; I’m currently working with JS, TS, C#, K8s, etc.
+- 🚀 &nbsp; I’m currently exploring AWS, etc.
 - 📫 &nbsp; Reach me out: trtheanh96@gmail.com.
 
 ### My Absolute Favorites:
